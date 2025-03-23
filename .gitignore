@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.whl
+*.pkl
+*.h5
+*.csv
